@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "376116854174",
+    "project_id": "lenguaje-c3e68",
+    "storage_bucket": "lenguaje-c3e68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376116854174:android:3d22c116f0d01471866a8f",
+        "android_client_info": {
+          "package_name": "com.example.lenguaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376116854174-hpqga0lih0l3p55akd2jsqc2qmticgi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT46_LFfvPyCaqFDttN6PFwumW3-zlQOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376116854174-hpqga0lih0l3p55akd2jsqc2qmticgi7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376116854174-oqb1k3m7ipv85u7ej8809c7e2s461qh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lenguaje"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
