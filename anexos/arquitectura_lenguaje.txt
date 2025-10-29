@@ -1,0 +1,26 @@
+lib/
+ ├── main.dart
+ ├── routes.dart              # Definición de rutas
+ ├── screens/
+ │    ├── splash/
+ │    │     └── splash_screen.dart
+ │    ├── auth/
+ │    │     ├── login_screen.dart
+ │    │     └── register_screen.dart
+ │    ├── home/
+ │    │     └── home_screen.dart
+ │    ├── translation/
+ │    │     ├── sign_to_text_screen.dart
+ │    │     └── text_to_sign_screen.dart
+ │    ├── education/
+ │    │     ├── levels_screen.dart
+ │    │     ├── lesson_screen.dart
+ │    │     ├── practice_screen.dart
+ │    │     └── stats_screen.dart
+ │    └── profile/
+ │          └── profile_screen.dart
+ ├── widgets/                 # Componentes reutilizables
+ ├── services/                # IA, MediaPipe, TTS, Auth
+ ├── models/                  # Clases de datos
+ ├── providers/               # Estado (Riverpod/Bloc)
+ └── theme/                   # Colores, estilos
